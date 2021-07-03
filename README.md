@@ -1,46 +1,62 @@
 `MUSIC.EVERTON.COM`
 
 
-(24kgoldn -mood ~remake) http://music.everton.com/song1.mp3
+(i'm coming home -skylar grey) http://music.everton.com/song1.mp3
 
-(24kgoldn -mood ~original) http://music.everton.com/song2mp3
+(mood -24kgoldn) http://music.everton.com/song2mp3
 
-(justin bieber -yummy ~original) http://music.everton.com/song3.mp3
+(yummy -justin bieber) http://music.everton.com/song3.mp3
 
-(bruno mars -the lazy song ~original) http://music.everton.com/song4.mp3
+(the lazy song -bruno mars) http://music.everton.com/song4.mp3
 
-(tate mcrae -you broke me first ~original) http://music.everton.com/song5.mp3
+(you broke me first -tate mcrae) http://music.everton.com/song5.mp3
 
-(aya nakamura -copines ~remake) http://music.everton.com/song6.mp3
+(copines -aya nakamura) http://music.everton.com/song6.mp3
 
-(elvis presley -can't help falling in love ~remake) http://music.everton.com/song7.mp3
+(can't help falling in love -elvis presley) http://music.everton.com/song7.mp3
 
-(lemon tree ~remake) http://music.everton.com/song8.mp3
+(lemon tree -gustixa) http://music.everton.com/song8.mp3
 
-(kina -get you the moon ~original) http://music.everton.com/song9.mp3
+(get you the moon -kina) http://music.everton.com/song9.mp3
 
-(skinnyfabs -happy ~cover by nida havia) http://music.everton.com/song10.mp3
+(happy -skinnyfabs cover by nida havia) http://music.everton.com/song10.mp3
 
-(jason derulo -savage love ~original) http://music.everton.com/song11.mp3
+(savage love -jason derulo) http://music.everton.com/song11.mp3
 
-(pamungkas -to the bone ~original) http://music.everton.com/song12.mp3
+(to the bone -pamungkas) http://music.everton.com/song12.mp3
 
-(duncan laurence -arcade ~cover by daneliya tuleshova) http://music.everton.com/song13.mp3
+(arcade -duncan laurence cover by daneliya tuleshova) http://music.everton.com/song13.mp3
 
-(pink sweat$ -at my worst ~original) http://music.everton.com/song14.mp3
+(at my worst -pink sweat$) http://music.everton.com/song14.mp3
 
-(spongebob squarepants -ripped pants ~remake) http://music.everton.com/song15.mp3
+(spongebob squarepants ripped pants -gustixa) http://music.everton.com/song15.mp3
 
-(skinnyfabs -happy ~remake) http://music.everton.com/song16.mp3
+(skinnyfabs happy -gustixa) http://music.everton.com/song16.mp3
 
-(frankie valli -can't take my eyes off you ~cover by joseph vincent) http://music.everton.com/song17.mp3
+(can't take my eyes off you -joseph vincent) http://music.everton.com/song17.mp3
 
-(isak danielson -always ~original) http://music.everton.com/song18.mp3
+(always -isak danielson) http://music.everton.com/song18.mp3
 
-(sia -snowman ~original) http://music.everton.com/song19.mp3
+(snowman -sia) http://music.everton.com/song19.mp3
 
-(gym class heroes -stereo hearts ft.adam levine ~original) http://music.everton.com/song20.mp3
+(stereo hearts -gym class heroes ft.adam levine) http://music.everton.com/song20.mp3
 
-(avicii -the nights ~original) http://music.everton.com/song21.mp3
+(the nights -avicii) http://music.everton.com/song21.mp3
 
-(shaun -way back home ~original) http://music.everton.com/song22.mp3
+(way back home -shaun) http://music.everton.com/song22.mp3
+
+(build a bitch -bella poarch) http://music.everton.com/song23.mp3
+
+(tie me down -gryffin ft.eley duhé) http://music.everton.com/song24.mp3
+
+(take me to church -hozier) http://music.everton.com/song25.mp3
+
+(i'm yours -jason mraz) http://music.everton.com/song26.mp3
+
+(comethru -jeremy zucker) http://music.everton.com/song27.mp3
+
+(before you go -lewis capaldi) http://music.everton.com/song28.mp3
+
+(girls like you -maroon 5 ft.cardi b) http://music.everton.com/song29.mp3
+
+(unstoppable -sia) http://music.everton.com/song30.mp3
