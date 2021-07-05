@@ -60,3 +60,26 @@
 (girls like you -maroon 5 ft.cardi b) http://music.everton.com/song29.mp3
 
 (unstoppable -sia) http://music.everton.com/song30.mp3
+
+
+
+
+(dj booma booma yee) http://music.everton.com/dj1.mp3
+
+(dj damon vacation) http://music.everton.com/dj2.mp3
+
+(dj into your arms x akimilaku) http://music.everton.com/dj3.mp3
+
+(dj its my life x india mashup) http://music.everton.com/dj4.mp3
+
+(dj river flows in you) http://music.everton.com/dj5.mp3
+
+(dj tie me down x faded x 8 letters) http://music.everton.com/dj6.mp3
+
+(dj diamond in the sky) http://music.everton.com/dj7.mp3
+
+(dj magic rude) http://music.everton.com/dj8.mp3
+
+(dj lemon tree) http://music.everton.com/dj9.mp3
+
+(dj copines) http://music.everton.com/dj10.mp3
